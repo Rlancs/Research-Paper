@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "ctskills:toolbox"
+    },
+    "title": "Hello world!",
+    "description": "Mod is working! Good luck!",
+    "background": "minecraft:textures/block/white_concrete.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "Toolbox": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ctskills:toolbox"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "powered=false,facing=north": {
+      "model": "ctskills:block/clock_generator_off",
+      "y" : 180
+    },
+    "powered=false,facing=east": {
+      "model": "ctskills:block/clock_generator_off",
+      "y" : 270
+    },
+    "powered=false,facing=south": {
+      "model": "ctskills:block/clock_generator_off",
+      "y" : 0
+    },
+    "powered=false,facing=west": {
+      "model": "ctskills:block/clock_generator_off",
+      "y" : 90
+    },
+    "powered=true,facing=north": {
+      "model": "ctskills:block/clock_generator_on",
+      "y" : 180
+    },
+    "powered=true,facing=east": {
+      "model": "ctskills:block/clock_generator_on",
+      "y" : 270
+    },
+    "powered=true,facing=south": {
+      "model": "ctskills:block/clock_generator_on",
+      "y" : 0
+    },
+    "powered=true,facing=west": {
+      "model": "ctskills:block/clock_generator_on",
+      "y" : 90
+    }
+  }
+}

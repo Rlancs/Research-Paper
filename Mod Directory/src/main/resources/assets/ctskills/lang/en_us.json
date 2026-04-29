@@ -1,0 +1,10 @@
+{
+  "item.ctskills.toolbox": "Toolbox",
+  "block.ctskills.input_block": "Input Block",
+  "block.ctskills.output_block": "Output Block",
+  "block.ctskills.and_gate": "AND Gate",
+  "block.ctskills.not_gate": "NOT Gate",
+  "block.ctskills.rs_latch": "RS Latch",
+  "block.ctskills.clock_generator": "Clock Generator",
+  "creativetab.toolbox.tab": "Toolbox"
+}

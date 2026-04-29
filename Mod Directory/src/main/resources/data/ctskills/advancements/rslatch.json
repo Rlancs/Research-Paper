@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "ctskills:rs_latch"
+    },
+    "title": "RS Latch!",
+    "description": "You've implemented a RS latch!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "ctskills:toolbox",
+  "criteria": {
+    "RSLatch": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "ctskills:blocks/rs_latch"
+    ]
+  }
+}

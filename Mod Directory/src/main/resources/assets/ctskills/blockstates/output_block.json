@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "ctskills:block/output_block_off" },
+    "powered=true": { "model": "ctskills:block/output_block_on" }
+  }
+}
