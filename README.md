@@ -1,4 +1,4 @@
-# Artefact - Minecraft Mod for Self-perception of CT Skills
+# Minecraft Mod for Quantitative Analysis of Computational Thinking Self-Perception
 My computing artefact is a modification developed for **Minecraft 1.20.1**. In its packaged (.jar) form, the mod must be ran on the **Forge** mod loader (version 1.20.1-47.0.19). Otherwise, the mod can be ran directly from the directory, though it requires some specific IDE setup. In both cases, **Java** is required to be installed on the computer to run the mod, or otherwise have the IDE/Forge installation contain a reference to a JDK (Java Development Kit) archive. The recommended version of Java is **21.0.6**, though others may work.
 
 *NOTE:* Recommended to read the 'Activity Slides (Variant)' PDF, found in the 'Activity Slides' folder, for an understanding of how the world and mod integrate with one another.\
